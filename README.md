@@ -1,2 +1,2 @@
 # MenuKit
-Show menu in Linux CUI
+Show menu in Linux CLI
